@@ -1,0 +1,14 @@
+C:\Users\Márk\source\repos\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\bin\Debug\KátaiMárkViktor_GBJ0CK.exe.config
+C:\Users\Márk\source\repos\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\bin\Debug\KátaiMárkViktor_GBJ0CK.exe
+C:\Users\Márk\source\repos\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\bin\Debug\KátaiMárkViktor_GBJ0CK.pdb
+C:\Users\Márk\source\repos\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\obj\Debug\KátaiMárkViktor_GBJ0CK.csprojAssemblyReference.cache
+C:\Users\Márk\source\repos\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\obj\Debug\KátaiMárkViktor_GBJ0CK.csproj.CoreCompileInputs.cache
+C:\Users\Márk\source\repos\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\obj\Debug\KátaiMárkViktor_GBJ0CK.exe
+C:\Users\Márk\source\repos\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\obj\Debug\KátaiMárkViktor_GBJ0CK.pdb
+C:\Users\Márk\Desktop\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\bin\Debug\KátaiMárkViktor_GBJ0CK.exe.config
+C:\Users\Márk\Desktop\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\bin\Debug\KátaiMárkViktor_GBJ0CK.exe
+C:\Users\Márk\Desktop\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\bin\Debug\KátaiMárkViktor_GBJ0CK.pdb
+C:\Users\Márk\Desktop\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\obj\Debug\KátaiMárkViktor_GBJ0CK.csprojAssemblyReference.cache
+C:\Users\Márk\Desktop\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\obj\Debug\KátaiMárkViktor_GBJ0CK.csproj.CoreCompileInputs.cache
+C:\Users\Márk\Desktop\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\obj\Debug\KátaiMárkViktor_GBJ0CK.exe
+C:\Users\Márk\Desktop\KátaiMárkViktor_GBJ0CK\KátaiMárkViktor_GBJ0CK\obj\Debug\KátaiMárkViktor_GBJ0CK.pdb
